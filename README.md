@@ -1,2 +1,8 @@
-# Bookstorewebsite
-This online bookstore is a full-stack web application built with the modern MERN stack. The React frontend delivers a fast, responsive user interface for browsing and searching books. Node.js with Express powers the robust backend API, handling all business logic. MongoDB provides the flexible, scalable database to efficiently manage book .
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
